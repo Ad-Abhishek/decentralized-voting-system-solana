@@ -1,3 +1,10 @@
+![Screenshot](ss/landing.png)
+![Screenshot](ss/dashboard.png)
+![Screenshot](ss/create-poll.png)
+![Screenshot](ss/full-poll.png)
+![Screenshot](ss/tx1.png)
+![Screenshot](ss/tx2.png)
+
 # Decentralized Voting System on Solana
 
 A blockchain-based voting system built on Solana devnet with React frontend, Node.js backend, and MySQL database.

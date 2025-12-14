@@ -414,3 +414,30 @@
   margin-bottom: 1rem;
   color: #166534;
 }
+
+.blockchain-info {
+  background: #f8fafc;
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+.blockchain-info h4 {
+  color: #1e293b;
+  margin-bottom: 1rem;
+}
+
+.blockchain-info p {
+  color: #64748b;
+  margin-bottom: 0.5rem;
+}
+
+.blockchain-info a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+.blockchain-info a:hover {
+  text-decoration: underline;
+}
